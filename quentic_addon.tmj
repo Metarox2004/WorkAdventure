@@ -1077,6 +1077,23 @@
                  "width":212,
                  "x":832,
                  "y":287
+                }, 
+                {
+                 "height":189,
+                 "id":9,
+                 "name":"to-claude",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"https:\/\/play.workadventu.re\/_\/2g7lygmvkqo\/general-tapioca.github.io\/workadventuremap\/map.tmj#from-addon"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":230,
+                 "x":850,
+                 "y":1030
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1197,7 +1214,7 @@
          "y":0
         }],
  "nextlayerid":27,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2023.11.13",
