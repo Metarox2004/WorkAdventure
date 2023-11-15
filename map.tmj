@@ -431,12 +431,12 @@
                 {
                  "height":64,
                  "id":18,
-                 "name":"to-conference",
+                 "name":"to-addon",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"quentic_addon.tmj#from-addon"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -448,7 +448,7 @@
                 {
                  "height":32,
                  "id":19,
-                 "name":"from-conference",
+                 "name":"from-addon",
                  "properties":[
                         {
                          "name":"start",
@@ -543,7 +543,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":20,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
