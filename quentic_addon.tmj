@@ -1055,6 +1055,28 @@
                  "width":32,
                  "x":959.333333333333,
                  "y":448.666666666667
+                }, 
+                {
+                 "height":129,
+                 "id":8,
+                 "name":"ChatZone",
+                 "properties":[
+                        {
+                         "name":"chatDescription",
+                         "type":"string",
+                         "value":"Ticket WirrWarr"
+                        }, 
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"Quentic Chat"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":212,
+                 "x":832,
+                 "y":287
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1175,7 +1197,7 @@
          "y":0
         }],
  "nextlayerid":27,
- "nextobjectid":8,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"2023.11.13",
